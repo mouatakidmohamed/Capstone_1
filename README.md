@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes sales data for EmporiUm, a student bookstore chain offering books, tech products, art supplies, and more through both in-store and online channels.
+This project analyzes sales data for EmporiUm
 
 ## Sales Territory
 
