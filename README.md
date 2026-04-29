@@ -16,5 +16,6 @@ The main objectives of this analysis are:
 ## Tools Used
 - MySQL
 - SQL scripting
+- Excel (PivotChart)
 - Git & GitHub
 
