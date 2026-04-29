@@ -6,7 +6,7 @@ This project analyzes sales data for EmporiUm
 
 ## Sales Territory
 
-West Region - Online Sales
+Maryland
 
 ## Objectives
 
