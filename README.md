@@ -19,3 +19,6 @@ The main objectives of this analysis are:
 - Excel (PivotChart)
 - Git & GitHub
 
+## Project Demo Video
+
+[Watch my demo video: (https://youtu.be/e2UX4RdjRLw)
